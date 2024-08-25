@@ -46,7 +46,7 @@ int main()
 }
 ```
 
-O/P:
+O/P:![image](https://github.com/user-attachments/assets/32b43211-3639-4170-af77-8659229e7255)
 
 
 
